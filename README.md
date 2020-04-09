@@ -1,13 +1,13 @@
 # Getting-and-Cleaning-Data-peer-graded
 Getting and Cleaning Data Course Project (Peer-graded Assignment)
 
-###Project purpose
+## Project purpose
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
-###Data taxonomy
+## Data taxonomy
 Refer to the CODEBOOK.md for more information on data attributes.
 
-###Step-by-step explanation of the R script (“run_analysis.R”)
+## Step-by-step explanation of the R script (“run_analysis.R”)
 The script will perform the following: 
 * STEP 0 – Preparation: Download the zip file as provided and unzip it to folder “data” in working directory (If folder 'data' is not existed, then trigger the folder creation). Read all inputs and assign to appropriate objects: “features”, “activities”, “subject.test”, “x.test”, “y.test”, “subject.train”, “x.train”, “y.train”.
 
